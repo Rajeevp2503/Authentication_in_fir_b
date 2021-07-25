@@ -1,0 +1,2 @@
+rootProject.name = "Authentication_in_fir_b"
+include ':app'

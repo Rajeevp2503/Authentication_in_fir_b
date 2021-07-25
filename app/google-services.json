@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192720820236",
+    "project_id": "authentication-in-fir-b",
+    "storage_bucket": "authentication-in-fir-b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192720820236:android:b8b917610b980afae67629",
+        "android_client_info": {
+          "package_name": "com.example.authentication_in_fir_b"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192720820236-7raktofbinuhfbf0ri4ur5an9l11oea3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMxGbuQlTmFpCzcPbmMEM8W3Gmpp16sks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192720820236-7raktofbinuhfbf0ri4ur5an9l11oea3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
